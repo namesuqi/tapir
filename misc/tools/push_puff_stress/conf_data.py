@@ -1,0 +1,16 @@
+#!/usr/bin/python
+# coding=utf-8
+
+PEER_ID = "000100269C514991903483FC30B03C00"
+
+# FILE_URL = "http://flv.srs.cloutropy.com/live/livestreamtest.flv"
+# FILE_ID = "D31C505783C3ADA9EF7C2A6426D5AB0C"
+
+FILE_URL = "http://pl8.live.panda.tv/live_panda/012192e6277f7da070480d8ee32648fd.flv"
+FILE_ID = "C08B7AF1B8293F803B7F1DCE0470D5B3"
+
+PORT_START = 10000
+
+PUSH_HOST = "192.168.4.180"
+PUSH_PORT = 9560
+SLEEP = 0.002

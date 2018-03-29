@@ -1,0 +1,1 @@
+{"seeds":[{"version":"3.4.0","natType":3,"publicIP":"10.6.4.1","publicPort":12321,"privateIP":"10.6.4.2","privatePort":34753,"isp_id":"100017","peer_id":"00000004BEBA4A0FBD6BF001AEEA2954","cppc":1}]}
